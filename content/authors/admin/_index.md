@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate Student from NENU
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Sociology of Education
+- Public Policy
 - Information Retrieval
 
 education:
